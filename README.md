@@ -25,7 +25,7 @@
 - Developed robust middleware and enhanced cybersecurity to ensure safe user interactions.  
 
 
-### Second Brain – Volta Hackathon (2nd Place)
+### [Second Brain – Volta Hackathon (2nd Place)](https://github.com/EduardKakosyan/volta_hackathon)
 *Time management students to empower university students*
 - Developed a no-code productivity tool to help university students manage their time effectively, winning second place at the Volta Hackathon.
 - Integrated APIs with N8N to connect student email, calendar, and other services, enabling features like event management (e.g., exams, appointments), automated scheduling, and deadline tracking
