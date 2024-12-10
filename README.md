@@ -7,6 +7,18 @@
 
 ---
 
+## 🏆 Experience  
+
+### Software Developer (Co-op) – Data Science  
+*Rayleigh Solar Tech | January 2024 – August 2024*  
+- Created data processing pipelines and intuitive Python applications to streamline workflows.  
+
+### IT Specialist (Co-op)  
+*IMP Group Aerospace Ltd. | May 2023 – August 2023*  
+- Configured virtual servers and managed Active Directory for enhanced network security.  
+
+---
+
 ## 💻 Technical Skills  
 
 - **Languages**: Python, TypeScript, C, PostgreSQL, Java 
@@ -56,16 +68,6 @@
 - Leveraged tools like Nmap for network scanning, Metasploit for exploitation, and Ghidra for reverse engineering binary files.
 - Identified and exploited web vulnerabilities, including SQL injection and XSS, and secured access to systems using protocols such as SSH and FTP.
 - Developed a deep understanding of system vulnerabilities and mitigation techniques, enhancing my problem-solving and critical-thinking skills in cybersecurity.
-
-## 🏆 Experience  
-
-### Software Developer (Co-op) – Data Science  
-*Rayleigh Solar Tech | January 2024 – August 2024*  
-- Created data processing pipelines and intuitive Python applications to streamline workflows.  
-
-### IT Specialist (Co-op)  
-*IMP Group Aerospace Ltd. | May 2023 – August 2023*  
-- Configured virtual servers and managed Active Directory for enhanced network security.  
 
 ---
 ## 🔗 Connect with Me  
