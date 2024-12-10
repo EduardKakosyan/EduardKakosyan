@@ -24,6 +24,16 @@
 - Implemented RLS policies in Supabase for secure PostgreSQL queries.  
 - Developed robust middleware and enhanced cybersecurity to ensure safe user interactions.  
 
+
+### Second Brain – Volta Hackathon (2nd Place)
+*Time management students to empower university students*
+- Developed a no-code productivity tool to help university students manage their time effectively, winning second place at the Volta Hackathon.
+- Integrated APIs with N8N to connect student email, calendar, and other services, enabling features like event management (e.g., exams, appointments), automated scheduling, and deadline tracking
+- Built a Pinecone vector database containing hundreds of class notes, PDFs, and slideshows, allowing the AI to learn, search, and retrieve relevant information for solving assignments, explaining concepts, and scheduling tasks.
+- Designed a fully no-code front-end, enabling intuitive user interaction while allowing the AI to read syllabi and automatically schedule due dates for assignments.
+- Completed the tool’s design and implementation in under 8 hours, showcasing the power of no-code platforms and efficient collaboration in a hackathon setting.
+
+
 ### [SkyPainters - NASA Space Apps Challenge](https://skypainter.fly.dev)  
 *Educational tool to visualize night skies from exoplanets*  
 - Processed 13+ million stars from Gaia’s catalog to simulate night skies from various exoplanets.  
