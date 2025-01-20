@@ -39,11 +39,13 @@
 
 ### [Second Brain – Volta Hackathon (2nd Place)](https://github.com/EduardKakosyan/volta_hackathon)
 *Time management students to empower university students*
-- Developed a no-code productivity tool to help university students manage their time effectively, winning second place at the Volta Hackathon.
-- Integrated APIs with N8N to connect student email, calendar, and other services, enabling features like event management (e.g., exams, appointments), automated scheduling, and deadline tracking
-- Built a Pinecone vector database containing hundreds of class notes, PDFs, and slideshows, allowing the AI to learn, search, and retrieve relevant information for solving assignments, explaining concepts, and scheduling tasks.
-- Designed a fully no-code front-end, enabling intuitive user interaction while allowing the AI to read syllabi and automatically schedule due dates for assignments.
-- Completed the tool’s design and implementation in under 8 hours, showcasing the power of no-code platforms and efficient collaboration in a hackathon setting.
+- Developed a no-code AI productivity agent in under 10 hours, leveraging Pinecone’s vector database to store and
+query thousands of academic documents, enabling students to ask questions and receive actionable insights about
+coursework.
+- Integrated calendar and email functionalities, allowing the agent to summarize upcoming events, schedule new ones,
+and automate due-date tracking by analyzing syllabi and emails
+- Achieved 2nd place at the Volta Hackathon, demonstrating innovation, collaboration, and the power of no-code
+platforms in creating effective time-management tools for university students
 
 
 ### [SkyPainters - NASA Space Apps Challenge](https://skypainter.fly.dev)  
