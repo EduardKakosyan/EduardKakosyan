@@ -1,13 +1,12 @@
 # Eduard Kakosyan  
-**Bachelor of Computer Science Student at Dalhousie (4th year)| Data Science and Cybersecurity**
+**Bachelor of Computer Science Student at Dalhousie (4th year)**
 
-📧 [kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca)  
-🔗 [LinkedIn](https://linkedin.com/in/eduard-kakosyan) | [GitHub](https://github.com/EduardKakosyan)  
+[kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca) | [LinkedIn](https://linkedin.com/in/eduard-kakosyan) | [GitHub](https://github.com/EduardKakosyan)  
 
 
 ---
 
-## 🏆 Experience  
+##Experience  
 
 ### Software Developer (Co-op) – Data Science  
 *Rayleigh Solar Tech | January 2024 – August 2024*  
@@ -19,16 +18,8 @@
 
 ---
 
-## 💻 Technical Skills  
 
-- **Languages**: Python, TypeScript, C, PostgreSQL, Java 
-- **Frameworks**: Next.js, Tailwind CSS, Node.js, React  
-- **Tools**: Docker, Supabase, PostgreSQL, VMware, Git, N8N  
-- **Specializations**: Data Science, AI Development, Cybersecurity
-
----
-
-## 🚀 Projects  
+## Projects  
 
 ### [CarGrep - Shiftkey Build Program](https://www.cargrep.com)
 *AI-powered car recommendation platform - In Progress*  
@@ -54,14 +45,6 @@ platforms in creating effective time-management tools for university students
 - Designed efficient data pipelines for galactic coordinate transformations and brightness adjustments.  
 - Leveraged GPU acceleration, Docker, and PostgreSQL for high-performance data visualization.  
 
-### Data Analysis Tools for Rayleigh Solar Tech  
-*Streamlining data processing for the electrical engineering team*  
-- Developed pipelines to process 10+ million rows of data, generating actionable insights in seconds.  
-- Built Python applications with intuitive GUIs, enabling non-technical users to produce detailed reports.  
-- Integrated sensor error detection for enhanced data integrity and reliability.  
-
----
-
 ## CTFs
 
 ### CTF Challenges – Cybersecurity
@@ -71,10 +54,6 @@ platforms in creating effective time-management tools for university students
 - Identified and exploited web vulnerabilities, including SQL injection and XSS, and secured access to systems using protocols such as SSH and FTP.
 - Developed a deep understanding of system vulnerabilities and mitigation techniques, enhancing my problem-solving and critical-thinking skills in cybersecurity.
 
----
-## 🔗 Connect with Me  
-
-Feel free to explore my projects and reach out for collaborations or opportunities!  
 <!--
 **EduardKakosyan/EduardKakosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
