@@ -46,13 +46,10 @@ platforms in creating effective time-management tools for university students
 - Leveraged GPU acceleration, Docker, and PostgreSQL for high-performance data visualization.  
 
 ## CTFs
-
-### CTF Challenges – Cybersecurity
 *Dalhousie University - Fall 2024*
 - Gained hands-on experience in ethical hacking and vulnerability analysis through a series of Capture the Flag (CTF) challenges during the Cyber Security (CSCI 4178) course.
 - Leveraged tools like Nmap for network scanning, Metasploit for exploitation, and Ghidra for reverse engineering binary files.
 - Identified and exploited web vulnerabilities, including SQL injection and XSS, and secured access to systems using protocols such as SSH and FTP.
-- Developed a deep understanding of system vulnerabilities and mitigation techniques, enhancing my problem-solving and critical-thinking skills in cybersecurity.
 
 <!--
 **EduardKakosyan/EduardKakosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
