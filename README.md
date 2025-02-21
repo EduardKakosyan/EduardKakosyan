@@ -6,7 +6,7 @@
 
 ---
 
-##Experience  
+## Experience  
 
 ### Software Developer (Co-op) – Data Science  
 *Rayleigh Solar Tech | January 2024 – August 2024*  
