@@ -1,20 +1,27 @@
-# Eduard Kakosyan  
-**Bachelor of Computer Science Student at Dalhousie (4th year)**
+# Eduard Kakosyan (BCS)
 
 [kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca) | [LinkedIn](https://linkedin.com/in/eduard-kakosyan) | [GitHub](https://github.com/EduardKakosyan)  
-
 
 ---
 
 ## Experience  
 
+### AI Developer/Consulting (current)
+- Consulted with multiple clients to identify AI integration opportunities and design tailored solutions that automated key business processes
+- Conducted comprehensive AI/ML research and feasibility studies, delivering actionable reports and strategic recommendations
+- Developed end-to-end automation pipelines—including data ingestion, model deployment, and performance monitoring—to streamline client workflows
+
 ### Software Developer (Co-op) – Data Science  
 *Rayleigh Solar Tech | January 2024 – August 2024*  
-- Created data processing pipelines and intuitive Python applications to streamline workflows.  
+- Built end-to-end Python ETL pipelines (pandas, NumPy, SciPy) to ingest, clean and aggregate raw PV cell sensor data into funding‑ready reports
+- Developed interactive dashboard applications with 100+ charting functions, enabling scientists to monitor performance metrics in real time
+- Employed OpenCV for automated thermal‑image analysis to assess PV cell behavior under varying load conditions
 
 ### IT Specialist (Co-op)  
 *IMP Group Aerospace Ltd. | May 2023 – August 2023*  
-- Configured virtual servers and managed Active Directory for enhanced network security.  
+- Provisioned and maintained Microsoft Hyper‑V virtual servers, ensuring optimal performance and uptime
+- Administered Active Directory (user/group provisioning, GPOs, security auditing) via ManageEngine ADManager Plus
+- Monitored server and network health with ManageEngine OpManager, troubleshooting routers, switches and firewalls
 
 ---
 
@@ -23,9 +30,10 @@
 
 ### [CarGrep - Shiftkey Build Program](https://www.cargrep.com)
 *AI-powered car recommendation platform - In Progress*  
-- Building an AI agent integrating live car listings with user preferences using RAG.  
-- Implemented RLS policies in Supabase for secure PostgreSQL queries.  
-- Developed robust middleware and enhanced cybersecurity to ensure safe user interactions.  
+- Architected and developed CarGrep’s responsive interface with Next.js and TailwindCSS, leveraging shadcn/ui for modular, accessible components
+- Built secure user management and real‑time data sync using Clerk and Supabase (Postgres + Edge Functions)
+- Integrated Crawl4AI and Azure OpenAI (via Vercel AI SDK) to power an AI assistant that delivers personalized car recommendations
+- Implemented Stripe payment billing, and deployed on Vercel for edge performance
 
 
 ### [Second Brain – Volta Hackathon (2nd Place)](https://github.com/EduardKakosyan/volta_hackathon)
