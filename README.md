@@ -6,10 +6,7 @@
 
 ## Experience  
 
-### AI Developer/Consulting (current)
-- Consulted with multiple clients to identify AI integration opportunities and design tailored solutions that automated key business processes
-- Conducted comprehensive AI/ML research and feasibility studies, delivering actionable reports and strategic recommendations
-- Developed end-to-end automation pipelines—including data ingestion, model deployment, and performance monitoring—to streamline client workflows
+### AI Developer (current)
 
 ### Software Developer (Co-op) – Data Science  
 *Rayleigh Solar Tech | January 2024 – August 2024*  
