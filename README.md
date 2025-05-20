@@ -1,12 +1,15 @@
-# Eduard Kakosyan (BCS)
+# Eduard Kakosyan
 
-[kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca) | [LinkedIn](https://linkedin.com/in/eduard-kakosyan) | [GitHub](https://github.com/EduardKakosyan)  
+Personal: [kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca) | Work: [eduard@ai-first.ca](mailto:eduard@ai-first.ca)  | [LinkedIn - Eduard Kakosyan](https://linkedin.com/in/eduard-kakosyan)
 
 ---
 
 ## Experience  
-
-### AI Developer (current)
+### AI-Developer
+**AI-First Consulting | May 2025 – Present**
+- Designing and implementing AI-driven workflows and automations using tools such as N8N and LangGraph to optimize business processes for clients and internal operations.
+- Developing and deploying AI agents to automate CRM management, significantly reducing manual workload and enhancing system responsiveness.
+- Leading AI literacy workshops and consulting engagements for businesses across Atlantic Canada, guiding the adoption of tailored AI solutions while exploring emerging platforms like Google AI Studio and Microsoft Copilot Studio.
 
 ### Software Developer (Co-op) – Data Science  
 *Rayleigh Solar Tech | January 2024 – August 2024*  
@@ -25,48 +28,21 @@
 
 ## Projects  
 
-### [CarGrep - Shiftkey Build Program](https://www.cargrep.com)
-*AI-powered car recommendation platform - In Progress*  
-- Architected and developed CarGrep’s responsive interface with Next.js and TailwindCSS, leveraging shadcn/ui for modular, accessible components
-- Built secure user management and real‑time data sync using Clerk and Supabase (Postgres + Edge Functions)
-- Integrated Crawl4AI and Azure OpenAI (via Vercel AI SDK) to power an AI assistant that delivers personalized car recommendations
-- Implemented Stripe payment billing, and deployed on Vercel for edge performance
+### [HealthByte – Atlantic AI Summit 2025 (1st Place)](https://healthbyte-dashboard.vercel.app/)
+*AI-driven agents to simulate public reactions to healthcare content and combat misinformation*
+- Developed a novel two-agent, reinforcement-style workflow in 60 hours; a Persona Agent, powered by the `o4-mini` model, loaded diverse profiles to simulate individual reactions (acceptance rate, sentiment, reasoning) to healthcare articles.
+- Implemented an Editor Agent that received the Persona Agent's feedback, iteratively editing original articles (up to 15 cycles in a reinforcement loop) to improve persuasiveness for specific personas and counter misinformation.
 
+### [CarGrep - Shiftkey Build Program](https://www.cargrep.com)
+*AI-powered car recommendation platform - ShiftKey Build*  
+- Built secure user management and real‑time data sync using Clerk and Supabase
+- Integrated Crawl4AI and Azure OpenAI (via Vercel AI SDK) to power an AI assistant that delivers personalized car recommendations
+- Implemented Stripe payment billing, and deployed on Vercel
 
 ### [Second Brain – Volta Hackathon (2nd Place)](https://github.com/EduardKakosyan/volta_hackathon)
-*Time management students to empower university students*
+*Time management agents to empower university students*
 - Developed a no-code AI productivity agent in under 10 hours, leveraging Pinecone’s vector database to store and
 query thousands of academic documents, enabling students to ask questions and receive actionable insights about
 coursework.
 - Integrated calendar and email functionalities, allowing the agent to summarize upcoming events, schedule new ones,
 and automate due-date tracking by analyzing syllabi and emails
-- Achieved 2nd place at the Volta Hackathon, demonstrating innovation, collaboration, and the power of no-code
-platforms in creating effective time-management tools for university students
-
-
-### [SkyPainters - NASA Space Apps Challenge](https://skypainter.fly.dev)  
-*Educational tool to visualize night skies from exoplanets*  
-- Processed 13+ million stars from Gaia’s catalog to simulate night skies from various exoplanets.  
-- Designed efficient data pipelines for galactic coordinate transformations and brightness adjustments.  
-- Leveraged GPU acceleration, Docker, and PostgreSQL for high-performance data visualization.  
-
-## CTFs
-*Dalhousie University - Fall 2024*
-- Gained hands-on experience in ethical hacking and vulnerability analysis through a series of Capture the Flag (CTF) challenges during the Cyber Security (CSCI 4178) course.
-- Leveraged tools like Nmap for network scanning, Metasploit for exploitation, and Ghidra for reverse engineering binary files.
-- Identified and exploited web vulnerabilities, including SQL injection and XSS, and secured access to systems using protocols such as SSH and FTP.
-
-<!--
-**EduardKakosyan/EduardKakosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
