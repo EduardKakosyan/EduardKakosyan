@@ -1,6 +1,6 @@
 # Eduard Kakosyan
 
-Personal: [kakosyaneduard@dal.ca](mailto:kakosyaneduard@dal.ca) | Work: [eduard@ai-first.ca](mailto:eduard@ai-first.ca)  | [LinkedIn - Eduard Kakosyan](https://linkedin.com/in/eduard-kakosyan)
+Work: [eduard@ai-first.ca](mailto:eduard@ai-first.ca)  | [LinkedIn - Eduard Kakosyan](https://linkedin.com/in/eduard-kakosyan)
 
 ---
 
