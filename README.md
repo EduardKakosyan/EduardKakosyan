@@ -8,7 +8,7 @@ Lead AI Developer building agents, teaching courses, and helping businesses adop
 
 ### What I do
 
-- Build and deploy AI agents for 20+ clients across consulting, engineering, and legal industries
+- Build and deploy AI agents for 40+ clients across consulting, engineering, and legal industries
 - Teach AI courses and develop curriculum at Dalhousie University, Digital Nova Scotia, and Shiftkey Labs
 - Run AI workshops for executive search companies globally
 - Develop the Advanced Data Science & ML curriculum for Digital Nova Scotia (150+ participants)
